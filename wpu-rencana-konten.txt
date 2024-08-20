@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 - Javascript
  ES6, dan Framework Java Script
+- Fundamental Data Structure
 - PHP Framework
 - Interview
 - Vlog
