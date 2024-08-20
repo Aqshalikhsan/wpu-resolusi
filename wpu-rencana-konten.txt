@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
  Ditambah Vue
  React
 - Fundamental Data Structure
+ Laravel
 - PHP Framework
  Belajar Laravel
 - Interview
