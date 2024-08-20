@@ -1,7 +1,10 @@
 RENCANA KONTEN WPU
 - Javascript
  ES6, dan Framework Java Script
+ Ditambah Vue
 - Fundamental Data Structure
 - PHP Framework
+ Belajar Laravel
 - Interview
 - Vlog
+- Python
