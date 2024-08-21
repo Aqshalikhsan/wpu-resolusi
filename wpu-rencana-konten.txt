@@ -4,6 +4,8 @@ RENCANA KONTEN WPU
  Ditambah Vue
  React
 - Fundamental Data Structure
+- Database 
+- Struktur basis data
  Laravel
 - PHP Framework
  Belajar Laravel
